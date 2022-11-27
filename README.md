@@ -1,4 +1,5 @@
 Airbnb Clone Project!
+
 ◾️Description Of The Project
 This is the first part of the AirBnB clone project where we worked on the backend of the project whiles interfacing it with a console application with the help of the cmd module in python.
 
@@ -11,11 +12,11 @@ This command line interpreter serves as the frontend of the web app where users 
 
 Some of the commands available are:
 
-   show
-   create
-   update
-   destroy
-   count
+   -show
+   -create
+   -update
+   -destroy
+   -count
 And as part of the implementation of the command line interpreter coupled with the backend and file storage system, the folowing actions can be performed:
 
 Creating new objects (ex: a new User or a new Place)
